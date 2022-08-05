@@ -3,7 +3,7 @@
 ## Megvalósítás
 
 A feladat egy Spring boot projekt keretében került megvalósításra JAVA 8 környezetben.
-A napon belüli megjelnítések meghatározása súlyozott valószínűségen alapszik, figyelembe véve a napi maximum megjelenítés értékét.
+A napon belüli megjelenítések meghatározása súlyozott valószínűségen alapszik, figyelembe véve a napi maximum megjelenítés értékét.
 
 ## Tesztelés
 
